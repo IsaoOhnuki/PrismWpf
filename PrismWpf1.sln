@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismWpf1", "PrismWpf1\PrismWpf1.csproj", "{844C9ABF-CA19-473D-A4DA-318E4A0F9F4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModule", "DataModule\DataModule.csproj", "{C45F29FA-E64A-4F7C-A4AC-26DD8865518C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{844C9ABF-CA19-473D-A4DA-318E4A0F9F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{844C9ABF-CA19-473D-A4DA-318E4A0F9F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{844C9ABF-CA19-473D-A4DA-318E4A0F9F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45F29FA-E64A-4F7C-A4AC-26DD8865518C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45F29FA-E64A-4F7C-A4AC-26DD8865518C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45F29FA-E64A-4F7C-A4AC-26DD8865518C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45F29FA-E64A-4F7C-A4AC-26DD8865518C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
